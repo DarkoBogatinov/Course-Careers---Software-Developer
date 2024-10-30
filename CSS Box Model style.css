@@ -1,0 +1,21 @@
+/*.text {
+    background-color: green;
+}
+div {
+    margin: 10px;
+    padding-left: 10px;
+    background-color: red;
+}*/
+
+div {
+    /*border: 1px solid black;*/
+    /*border-color: aquamarine;*/
+    /*padding: 10px;
+    margin: 20px;
+    background-color: green;*/
+    color: red;
+}
+
+.text {
+    color: blue;
+}
